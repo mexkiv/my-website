@@ -5,14 +5,14 @@
 
 	<meta charset="utf-8" />
 	<meta name="author" content="Jefferson Mexkiv"/>
-	<meta name="description" content="Desenvolvedor web a mais de 5 anos, formado em Tecnologia em Sistemas para Internet na Faculdade União, co-fundador da Flize Tecnologia."/>
+	<meta name="description" content="Jefferson Mexkiv, desenvolvedor web a mais de 5 anos, formado em Tecnologia em Sistemas para Internet na Faculdade União, co-fundador da Flize Tecnologia."/>
 	<meta name="robots" content="index,follow"/>
 	<meta name="revisit-after" content="7 days"  />
 	<meta name="viewport" content="width=device-width, minimumscale=1.0, maximum-scale=1.0" />
 
 	<meta property="og:title" content="Jefferson Mexkiv - Front End Dev"/>
 	<meta property="og:site_name" content="Jefferson Mexkiv - Front End Dev"/>
-	<meta property="og:description" content="Desenvolvedor web a mais de 5 anos, formado em Tecnologia em Sistemas para Internet na Faculdade União, co-fundador da Flize Tecnologia."/>
+	<meta property="og:description" content="Jefferson Mexkiv, desenvolvedor web a mais de 5 anos, formado em Tecnologia em Sistemas para Internet na Faculdade União, co-fundador da Flize Tecnologia."/>
 	<meta property="og:url" content="<?php echo URL; ?>"/>
 	<meta property="og:image" content="<?php echo URL; ?>/assets/img/facebook.jpg"/>
 
@@ -60,7 +60,7 @@
 
 		<article>
 		
-			<h3>Um breve, sobre:</h3>
+			<h3>Um pouco sobre:</h3>
 
 			<p>Desenvolvedor web a mais de 5 anos, formado em Tecnologia em Sistemas para Internet na <a href="http://uniao.edu.br" title="Ver mais sobre a Faculdade União">Faculdade União</a>, co-fundador da <a href="http://flize.com.br" title="Ver mais sobre Flize Tecnologia">Flize Tecnologia</a>, apaixonado por projetos <a href="http://pt.wikipedia.org/wiki/Front-end_e_back-end" title="Ver mais sobre Front End">Front End</a>, muita pesquisa e estudo para melhores técnicas de desenvolvimento e performance HTML, CSS e Javascript.</p>
 			<p>Claro, não sobrevivo só de Front. Vida longa ao <a href="https://br.wordpress.org/" title="Ver mais sobre o Wordpress">Wordpress</a> e ao Javascript server-side, o incrível <a href="http://nodejs.org/" title="Ver mais sobre o NodeJS">NodeJS</a>!</p>
@@ -88,12 +88,12 @@
 
 			<ul>
 				<li>HTML5 / Web Patterns / SEO.</li>
-				<li>CSS3 / Less / Stylus.</li>
+				<li>CSS3 / Less / Sass / Stylus.</li>
 				<li>Javascript: Angular, Gulp, Grunt, jQuery, Mongoose, Node, Sequelize.</li>
 				<li>PHP / Wordpress.</li>
 				<li>SQL Databases: MySQL, PostgreSQL, SQL Server</li>
-				<li>NoSQL Databases: CouchDB, LockJS, MongoDB.</li>
-				<li>Others: Git, BowerIO.</li>
+				<li>NoSQL Databases: CouchDB, LokiJS, MongoDB.</li>
+				<li>Others: Git, Bower.IO.</li>
 			</ul>
 
 		</article>
