@@ -40,7 +40,7 @@
 	<div class="side">
 		
 		<div class="photo">
-			<img src="<?php echo URL; ?>/assets/img/my-photo.jpg" alt="Jefferson Mexkiv">
+			<img src="https://twitter.com/mexkiv/profile_image?size=original" alt="Jefferson Mexkiv">
 		</div>
 
 		<h1>Jefferson Mexkiv</h1>
