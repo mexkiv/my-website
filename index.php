@@ -62,7 +62,7 @@
 		
 			<h3>Um pouco sobre:</h3>
 
-			<p>Desenvolvedor web a mais de 5 anos, formado em Tecnologia em Sistemas para Internet na <a href="http://uniao.edu.br" title="Ver mais sobre a Faculdade União">Faculdade União</a>, co-fundador da <a href="http://flize.com.br" title="Ver mais sobre Flize Tecnologia">Flize Tecnologia</a>, Analista de TI na <a href="http://cescage.edu.br" title="Ver mais sobre Cescage">Faculdades Cescage</a>, apaixonado por projetos <a href="http://pt.wikipedia.org/wiki/Front-end_e_back-end" title="Ver mais sobre Front End">Front End</a>, muita pesquisa e estudo para melhores técnicas de desenvolvimento e performance HTML, CSS e Javascript.</p>
+			<p>Desenvolvedor web a mais de 5 anos, formado em Tecnologia em Sistemas para Internet na <a href="http://uniao.edu.br" title="Ver mais sobre a Faculdade União">Faculdade União</a>, co-fundador da <a href="http://flize.com.br" title="Ver mais sobre Flize Tecnologia">Flize Tecnologia</a>, Analista Web na <a href="http://cescage.edu.br" title="Ver mais sobre Cescage">Faculdades Cescage</a>, apaixonado por projetos <a href="http://pt.wikipedia.org/wiki/Front-end_e_back-end" title="Ver mais sobre Front End">Front End</a>, muita pesquisa e estudo para melhores técnicas de desenvolvimento e performance HTML, CSS e Javascript.</p>
 			<p>Claro, não sobrevivo só de Front. Vida longa ao <a href="https://br.wordpress.org/" title="Ver mais sobre o Wordpress">Wordpress</a> e ao Javascript server-side, o incrível <a href="http://nodejs.org/" title="Ver mais sobre o NodeJS">NodeJS</a>!</p>
 
 		</article>
@@ -75,6 +75,7 @@
 				<li><a href="http://flize.com.br" title="Flize Tecnologia">Flize Tecnologia</a></li>
 				<li><a href="http://lola33.com.br" title="Agência Lola 33">Agência Lola 33</a></li>
 				<li><a href="http://edificioplatinum.com.br" title="Edifício Platinum">Edifício Platinum</a></li>
+				<li><a href="http://jpna.com.br" title="Edifício Platinum">João Paulo Nascimento</a></li>
 				<li><a href="http://veere.com.br" title="Veere - Tecnologia e Serviços">Veere - Tecnologia e Serviços</a></li>
 				<li><a href="http://costateixeira.com.br" title="Costa Teixeira">Costa Teixeira</a></li>
 				<li><a href="http://insack.com.br" title="Insack Equipamentos">Insack Equipamentos</a></li>
