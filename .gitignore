@@ -1,6 +1,0 @@
-node_modules
-bower_components
-assets/*
-!assets/index.php
-.git
-.DS_Store
